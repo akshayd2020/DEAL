@@ -6,6 +6,11 @@ name = "pypi"
 [packages]
 "discord.py" = "*"
 python-dotenv = "*"
+transformers = "*"
+numpy = "*"
+scipy = "*"
+urllib3 = "*"
+torch = "*"
 
 [dev-packages]
 
